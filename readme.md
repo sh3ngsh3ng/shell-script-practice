@@ -1,0 +1,1 @@
+Look through tutorial.sh for basic bash script
